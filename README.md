@@ -1,6 +1,6 @@
 # Daisy Workshop Jan2026
 
-![afiche del taller](./imagenes/afiche.jpg)
+![afiche del taller](./images/afiche.jpg)
 
 ## Author
 
